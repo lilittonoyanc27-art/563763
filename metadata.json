@@ -1,0 +1,6 @@
+{
+  "name": "Examen Oral de Español - Իսպաներենի Խոսակցական Քննություն",
+  "description": "Իսպաներենի խոսակցական քննությունների (Examen 1 և 2) ինտերակտիվ հարթակ՝ իսպաներենից հայերեն թարգմանությունների բացմամբ, բնական աուդիոյով և ընդհանուր ձայնի կառավարմամբ։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
